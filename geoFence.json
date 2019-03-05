@@ -1,0 +1,48 @@
+[{
+	"geoType": "POLYGON",
+	"geoFence": {
+		"points": [{
+			"latitude": 38.89997807830351,
+			"longitude": -77.04057052731514
+		}, {
+			"latitude": 38.89504013487723,
+			"longitude": -77.04237531870604
+		}, {
+			"latitude": 38.8964980172444,
+			"longitude": -77.03484853729607
+		}, {
+			"latitude": 38.89868804631969,
+			"longitude": -77.03361505642535
+		}, {
+			"latitude": 38.897653316228514,
+			"longitude": -77.03799342736602
+		}, {
+			"latitude": 38.899747418965525,
+			"longitude": -77.03763367608191
+		}, {
+			"latitude": 38.89997807830351,
+			"longitude": -77.04057052731514
+		}]
+	}
+}, {
+	"geoType": "CIRCLE",
+	"geoFence": {
+		"center": {
+			"latitude": 38.89342552197658,
+			"longitude": -77.03566007316114
+		},
+		"radius": 254.07332485570006
+	}
+}, {
+	"geoType": "RECTANGLE",
+	"geoFence": {
+		"topLeft": {
+			"latitude": 38.89928648943518,
+			"longitude": -77.04668428748846
+		},
+		"bottomRight": {
+			"latitude": 38.891471106274736,
+			"longitude": -77.04267606139184
+		}
+	}
+}]
